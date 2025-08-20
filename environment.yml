@@ -1,0 +1,27 @@
+name: stat-shape
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - matplotlib
+  - scikit-image
+  - scikit-learn
+  - ipywidgets
+  - seaborn
+  - napari
+  - napari-animation
+  - pyqt
+  - ipympl
+  - dask
+  - dask-image
+  - dask-ml
+  - pyrsistent
+  - napari-segment-blobs-and-things-with-membranes
+  - tqdm
+  - hurry.filesize
+  - trimesh
+  - pyclesperanto
+  - pydicom
+  - shapely
+  - tiffile
