@@ -1,2 +1,3 @@
-# stat-shape
-Statistical shape analysis of human finger bones.
+# Statistical Shape of Human Fingers
+
+This is our public repository of our code and documentation.
